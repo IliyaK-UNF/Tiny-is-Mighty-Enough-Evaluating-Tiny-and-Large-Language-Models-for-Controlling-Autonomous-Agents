@@ -1,6 +1,6 @@
 # Tiny is Mighty Enough Evaluating Tiny and Large Language Models for Controlling Autonomous Agents
 
-### Table 1: User Prompts and Expected Responses — Panda Franka
+### Table 2: User Prompts and Expected Responses — Panda Franka
 
 | Task Number | Prompt | Response |
 |---|---|---|
@@ -16,7 +16,7 @@
 
 ---
 
-### Table 2: Task Results — Panda Franka
+### Table 3: Task Results — Panda Franka
 
 | Models | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | Total Score |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 
 ---
 
-### Table 3: User Prompts and Expected Responses — Frozen Lake
+### Table 4: User Prompts and Expected Responses — Frozen Lake
 
 | Task ID | Prompt | Response |
 |---|---|---|
@@ -45,7 +45,7 @@
 
 ---
 
-### Table 4: Task Results — Frozen Lake
+### Table 5: Task Results — Frozen Lake
 
 | Models | 1 | 2 | 3 | 4 | 5 | 6 | 7 | Total Score |
 |---|---|---|---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 
 ---
 
-### Table 5: User Prompts and Expected Responses — Lunar Landing
+### Table 6: User Prompts and Expected Responses — Lunar Landing
 
 | Task Number | Prompt | Response |
 |---|---|---|
@@ -72,7 +72,7 @@
 
 ---
 
-### Table 6: Task Results — Lunar Landing
+### Table 7: Task Results — Lunar Landing
 
 | Models | 1 | 2 | 3 | 4 | 5 | Total Score |
 |---|---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 
 ---
 
-### Table 7: User Prompts and Expected Responses — Reacher
+### Table 8: User Prompts and Expected Responses — Reacher
 
 | Task Number | Prompt | Response |
 |---|---|---|
@@ -100,7 +100,7 @@
 
 ---
 
-### Table 8: Task Results — Reacher
+### Table 9: Task Results — Reacher
 
 | Model | 1 | 2 | 3 | 4 | 5 | 6 | Total Score |
 |---|---|---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 
 ---
 
-### Table 9: User Prompts and Expected Responses — Mountain Car
+### Table 10: User Prompts and Expected Responses — Mountain Car
 
 | Task Number | Prompt | Response |
 |---|---|---|
@@ -126,7 +126,7 @@
 
 ---
 
-### Table 10: Task Results — Mountain Car
+### Table 11: Task Results — Mountain Car
 
 | Model | 1 | 2 | 3 | 4 | Total Score |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 
 ---
 
-### Table 11: User Prompts and Expected Responses — Car Racing
+### Table 12: User Prompts and Expected Responses — Car Racing
 
 | Task Number | Prompt | Response |
 |---|---|---|
@@ -153,7 +153,7 @@
 
 ---
 
-### Table 12: Task Results — Car Racing
+### Table 13: Task Results — Car Racing
 
 | Model | 1 | 2 | 3 | 4 | 5 | Total Score |
 |---|---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 
 ---
 
-### Table 13: Total and BiPaN Scores
+### Table 14: Total and BiPaN Scores
 
 | TinyLlama | DeepSeek-R1 (1.5B) | Gemma-2 | Phi-2 | DeepSeek-R1 (7B) | Llama 3.1 (8B) | GPT-4o-mini | GPT-4o |
 |---|---|---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 
 ---
 
-### Table 14: Average Time (seconds) to Run 100 Prompts
+### Table 15: Average Time (seconds) to Run 100 Prompts
 
 | Models | Panda | Frozen Lake | Lunar Land. | Reacher | M. Car | Car Race. | Avg |
 |---|---|---|---|---|---|---|---|

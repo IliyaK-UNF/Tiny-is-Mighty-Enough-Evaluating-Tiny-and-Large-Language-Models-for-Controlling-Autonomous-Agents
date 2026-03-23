@@ -1,5 +1,8 @@
 # Tiny is Mighty Enough Evaluating Tiny and Large Language Models for Controlling Autonomous Agents
 
+## Associated Video
+[![Alt Text](https://img.youtube.com/vi/IzUYMhG0nIs/0.jpg)](https://youtu.be/IzUYMhG0nIs)
+
 ### Table 2: User Prompts and Expected Responses — Panda Franka
 
 | Task Number | Prompt | Response |
